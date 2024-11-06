@@ -1,0 +1,17 @@
+Milestone1
+
+
+Describe the concepts of security, compliance, and identity
+
+Module
+
+Describe security and compliance concepts
+https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-methodologies/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+25 min
+
+Module
+
+Describe identity concepts
+https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-concepts/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+Describe identity concepts
+20 min

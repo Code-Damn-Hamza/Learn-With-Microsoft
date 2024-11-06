@@ -1,0 +1,24 @@
+Milestone2
+
+Describe the capabilities of Microsoft Entra
+
+
+Module
+Describe the function and identity types of Microsoft Entra ID
+https://learn.microsoft.com/en-us/training/modules/explore-basic-services-identity-types/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs&ns-enrollment-type=Collection&ns-enrollment-id=ykeehpkmwpdw78
+28 min
+
+Module
+Describe the authentication capabilities of Microsoft Entra ID
+https://learn.microsoft.com/en-us/training/modules/explore-authentication-capabilities/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs&ns-enrollment-type=Collection&ns-enrollment-id=ykeehpkmwpdw78
+27 min
+
+Module
+Describe access management capabilities of Microsoft Entra
+https://learn.microsoft.com/en-us/training/modules/explore-access-management-capabilities/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+26 min
+
+Module
+Describe the identity protection and governance capabilities of Microsoft Entra
+https://learn.microsoft.com/en-us/training/modules/describe-identity-protection-governance-capabilities/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+40 min

@@ -1,0 +1,23 @@
+Milestone3
+
+Describe the capabilities of Microsoft security solutions
+
+Module
+Describe core infrastructure security services in Azure
+https://learn.microsoft.com/en-us/training/modules/describe-basic-security-capabilities-azure/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+29 min
+
+Module
+Describe the security management capabilities in Azure
+https://learn.microsoft.com/en-us/training/modules/describe-security-management-capabilities-of-azure/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs&ns-enrollment-type=Collection&ns-enrollment-id=ykeehpkmwpdw78
+24 min
+
+Module
+Describe security capabilities of Microsoft Sentinel
+https://learn.microsoft.com/en-us/training/modules/describe-security-capabilities-of-azure-sentinel/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+14 min
+
+Module
+Describe threat protection with Microsoft Defender XDR
+https://learn.microsoft.com/en-us/training/modules/describe-threat-protection-with-microsoft-365-defender/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs
+50 min

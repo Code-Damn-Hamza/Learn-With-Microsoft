@@ -1,0 +1,10 @@
+Milestone4
+
+Describe the capabilities of Microsoft compliance solutions
+
+ Days to milestone:1
+
+Module
+Describe Microsoft’s Service Trust portal and privacy capabilities
+https://learn.microsoft.com/en-us/training/modules/describe-compliance-management-capabilities-microsoft/?tab=tab-created&learnerGroupId=e9dabf68-82c5-4b01-bc41-7eb371a8d4e4&wt.mc_id=studentamb_391519&source=docs&ns-enrollment-type=Collection&ns-enrollment-id=ykeehpkmwpdw78
+21 min
